@@ -1,0 +1,11 @@
+[package]
+name = "tui-image"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+viuer = "0.5.3"
+tui = "0.16.0"
+image = "0.23.14"
